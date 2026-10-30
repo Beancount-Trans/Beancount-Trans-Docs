@@ -22,7 +22,7 @@ published_url:
 
 ## 托管到平台能得到什么
 
-- **移动端**：通过手机 App（目前仅支持 Android）随时查看账本、做决策前分析或记录条目。下载入口见 [Releases](https://github.com/dhr2333/Beancount-Trans-Mobile/releases)。
+- **移动端**：通过手机 App（目前仅支持 Android）随时查看账本、做决策前分析或记录条目。下载入口见 [Releases](https://github.com/Beancount-Trans/Beancount-Trans-Mobile/releases)。
 - **更贴合语义的分析**：平台的账户目录与标签目录（含中文描述）会作为上下文交给 Copilot，回答中出现的也是您自己的账户与标签。
 - **只读分享**：把这份账本以只读方式分享给家人或配偶，也可以交给 AI 客户端：见 [分享账本给他人](https://trans.dhr2333.cn/docs/%E6%95%99%E7%A8%8B/share-ledger) 与 [接入 AI 客户端](https://trans.dhr2333.cn/docs/%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97/connect-ai-client)。
 
@@ -73,7 +73,7 @@ published_url:
 - `20XX/00.bean`、`20XX/{01..12}.bean`：**提交到账本**产出的年/月文件（进入 Git）
 - `trans/`：**平台管理**的解析产物与写入缓冲（被 `.gitignore` 忽略）
 
-可对照模板仓库 [Beancount-Trans-Assets](https://github.com/dhr2333/Beancount-Trans-Assets)。
+可对照模板仓库 [Beancount-Trans-Assets](https://github.com/Beancount-Trans/Beancount-Trans-Assets)。
 </details>
 
 ### 下载 Deploy Key 并配置 SSH

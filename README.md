@@ -1,6 +1,6 @@
 # Beancount-Trans 文档
 
-[Beancount-Trans](https://github.com/dhr2333/Beancount-Trans) 的文档站点，使用 Docusaurus 构建。
+[Beancount-Trans](https://github.com/Beancount-Trans/Beancount-Trans) 的文档站点，使用 Docusaurus 构建。
 
 📖 **在线地址**: [https://trans.dhr2333.cn/docs/](https://trans.dhr2333.cn/docs/)
 
@@ -46,14 +46,14 @@ npm run build
 
 ## 更多资源
 
-- [主项目仓库](https://github.com/dhr2333/Beancount-Trans)
+- [主项目仓库](https://github.com/Beancount-Trans/Beancount-Trans)
 - [Docusaurus 文档](https://docusaurus.io/docs)
 
 ## 联系方式
 
-- 提交 [Issue](https://github.com/dhr2333/Beancount-Trans-Docs/issues)
+- 提交 [Issue](https://github.com/Beancount-Trans/Beancount-Trans-Docs/issues)
 - 邮件: <dai_haorui@163.com>
 
 ## 许可证
 
-本项目根据 MIT 许可证授权 - 详见 [LICENSE](https://github.com/dhr2333/Beancount-Trans-Docs/blob/main/LICENSE.txt) 文件。
+本项目根据 MIT 许可证授权 - 详见 [LICENSE](https://github.com/Beancount-Trans/Beancount-Trans-Docs/blob/main/LICENSE.txt) 文件。

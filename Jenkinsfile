@@ -15,7 +15,7 @@ pipeline {
         IMAGE_NAME = "beancount-trans-docs"
 
         // GitHub配置
-        GITHUB_REPO = 'dhr2333/Beancount-Trans-Docs'
+        GITHUB_REPO = 'Beancount-Trans/Beancount-Trans-Docs'
         GITHUB_API_URL = 'https://api.github.com'
     }
     stages {

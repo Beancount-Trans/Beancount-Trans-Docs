@@ -29,7 +29,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'dhr2333', // Usually your GitHub org/user name.
+  organizationName: 'Beancount-Trans', // Usually your GitHub org/user name.
   projectName: 'Beancount-Trans', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -63,7 +63,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: ({locale, versionDocsDirPath, docPath}) => {
-            return `https://github.com/dhr2333/Beancount-Trans-Docs/blob/main/${versionDocsDirPath}/${docPath}?language=${locale}`;
+            return `https://github.com/Beancount-Trans/Beancount-Trans-Docs/blob/main/${versionDocsDirPath}/${docPath}?language=${locale}`;
           },
         },
         blog: {
@@ -77,7 +77,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: ({locale, blogPath}) => {
-            return `https://github.com/dhr2333/Beancount-Trans-Docs/blob/main/blog/${blogPath}?language=${locale}`;
+            return `https://github.com/Beancount-Trans/Beancount-Trans-Docs/blob/main/blog/${blogPath}?language=${locale}`;
           },
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
@@ -116,7 +116,7 @@ const config: Config = {
         routeBasePath: 'developer',
         sidebarPath: './sidebarsDeveloper.ts',
         editUrl: ({locale, versionDocsDirPath, docPath}) => {
-          return `https://github.com/dhr2333/Beancount-Trans-Docs/blob/main/${versionDocsDirPath}/${docPath}?language=${locale}`;
+          return `https://github.com/Beancount-Trans/Beancount-Trans-Docs/blob/main/${versionDocsDirPath}/${docPath}?language=${locale}`;
         },
       },
     ],
@@ -167,7 +167,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/dhr2333/Beancount-Trans',
+          href: 'https://github.com/Beancount-Trans/Beancount-Trans',
           label: 'GitHub',
           position: 'right',
         },
@@ -194,7 +194,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub Discussions',
-              href: 'https://github.com/dhr2333/Beancount-Trans/discussions',
+              href: 'https://github.com/Beancount-Trans/Beancount-Trans/discussions',
             },
             // {
             //   label: 'Stack Overflow',
@@ -219,7 +219,7 @@ const config: Config = {
             },
             // {
             //   label: 'GitHub',
-            //   href: 'https://github.com/dhr2333/Beancount-Trans',
+            //   href: 'https://github.com/Beancount-Trans/Beancount-Trans',
             // },
           ],
         },
