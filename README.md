@@ -56,4 +56,4 @@ npm run build
 
 ## 许可证
 
-本项目根据 MIT 许可证授权 - 详见 [LICENSE](https://github.com/Beancount-Trans/Beancount-Trans-Docs/blob/main/LICENSE.txt) 文件。
+本项目文档内容根据 [CC BY 4.0](https://github.com/Beancount-Trans/Beancount-Trans-Docs/blob/main/LICENSE.txt) 许可证授权，转载或改编时请注明来源。
