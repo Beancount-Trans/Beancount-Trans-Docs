@@ -5,7 +5,7 @@ slug: git-sync
 type: Write
 date: 2026-09-27
 created_time: 2026-09-27T13:06:09
-modify_time: 2026-11-06T10:44:30
+modify_time: 2026-11-11T08:20:58
 authors: dhr2333
 status: Published
 channels:
@@ -117,6 +117,8 @@ git push origin main
 您应看到：
 
 - 打开 **「 Fava」** 能看到您刚推送的账户与交易。
+
+> **默认会补齐账户**：每次同步后，平台会把账本中显式 `open`、平台缺失的账户自动导入。
 
 账户迁移、新增、改名、删除与核对见 [管理 Git 用户的账户](https://trans.dhr2333.cn/docs/%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97/git-account-management)。
 
