@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>财见 Logo 线条（浅色背景）</title>
+  <desc>去除底色的三条交织线条；墨色线条 + 一根行动蓝，保证浅色背景可见。</desc>
+  <!-- Ink: upper flow -->
+  <path d="M 103,163
+           L 568,515
+           Q 589,531 609,515
+           L 906,281
+           Q 928,264 908,245
+           L 802,163"
+        fill="none" stroke="#14181A" stroke-width="23"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Ink: middle layer -->
+  <path d="M 104,322
+           L 568,674
+           Q 590,691 611,674
+           L 906,440
+           Q 927,423 907,404
+           L 853,361"
+        fill="none" stroke="#14181A" stroke-width="23"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Action: lower layer -->
+  <path d="M 104,481
+           L 568,833
+           Q 590,850 611,833
+           L 906,599
+           Q 928,582 907,563
+           L 853,520"
+        fill="none" stroke="#1B5079" stroke-width="23"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

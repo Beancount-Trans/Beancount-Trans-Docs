@@ -13,7 +13,7 @@ const hasAlgoliaConfig = Boolean(algoliaAppId && algoliaApiKey && algoliaIndexNa
 const config: Config = {
   title: 'Beancount-Trans',
   tagline: '复盘需要清晰的账；清晰不需要每天打卡。看清财务状况，支撑生活中各类与钱相关的决策。',
-  favicon: 'img/beancount-trans-logo.svg',
+  favicon: 'img/favicon.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -146,7 +146,8 @@ const config: Config = {
       title: 'Beancount-Trans',
       logo: {
         alt: 'Beancount-Trans Logo',
-        src: 'img/beancount-trans-logo.svg',
+        src: 'img/caijian-lines-light.svg',
+        srcDark: 'img/caijian-lines-dark.svg',
       },
       items: [
         {

@@ -45,6 +45,18 @@
   --docusaurus-highlighted-code-line-bg: #17293a;
 }
 
+/* 顶栏品牌标：线条版无底色，放大到 40px 保持与文字标题的视觉平衡 */
+.navbar__logo {
+  height: 40px;
+  width: 40px;
+}
+
+.navbar__logo img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
 /* 归档目录（99-归档 / label: Legacy）不在侧边栏出现，路由仍可访问 */
 .theme-doc-sidebar-item-link.hidden-sidebar-item,
 .theme-doc-sidebar-item-category.hidden-sidebar-item {
