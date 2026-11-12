@@ -5,7 +5,7 @@ slug: copilot
 type: Write
 date: 2026-09-23
 created_time: 2026-09-23T08:40:27
-modify_time: 2026-09-27T11:56:24
+modify_time: 2026-11-12T12:57:00
 authors: dhr2333
 status: Published
 channels:
@@ -30,7 +30,7 @@ Copilot 是平台内置的账本助手：用自然语言问账、做复盘，并
 - **让 Copilot 做一次月度复盘**
 - **说一句话生成一条待审核条目，并在审核后写入账本**
 
-> **建议**：您已登录 [Beancount-Trans](https://trans.dhr2333.cn/login)，且账本里已有若干交易记录。若还没有，请先跟随 [快速入门](./01-快速入门.md) 上传一份账单并写入账本。
+> **建议**：您已登录 [Beancount-Trans](https://trans.dhr2333.cn/login)，且账本里已有若干交易条目。若还没有，请先跟随 [快速入门](./01-快速入门.md) 上传一份账单并写入账本。
 
 ⏱️ 预计耗时：5 分钟。
 
@@ -94,9 +94,9 @@ Copilot 是平台内置的账本助手：用自然语言问账、做复盘，并
 ![](https://daihaorui.oss-cn-hangzhou.aliyuncs.com/djangoblog/20261017152904840.png)
 
 <details>
-<summary>有多条记录要记录？</summary>
+<summary>有多条要记账？</summary>
 
-Copilot 一次性**最多支持 10 条**记录。
+Copilot 一次性**最多支持 10 条**。
 
 若不够，建议在「文件管理」上传文件并解析 或「移动端上传文件解析」的方式批量生成。
 

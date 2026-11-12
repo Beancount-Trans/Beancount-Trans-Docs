@@ -5,7 +5,7 @@ slug: git-sync
 type: Write
 date: 2026-09-27
 created_time: 2026-09-27T13:06:09
-modify_time: 2026-11-11T08:20:58
+modify_time: 2026-11-12T12:57:00
 authors: dhr2333
 status: Published
 channels:
@@ -69,7 +69,7 @@ published_url:
 
 - `main.bean`：主账本入口（包含各条 include）
 - `account/`：账户定义
-- `20XX_template/` 等：按年份组织的交易记录
+- `20XX_template/` 等：按年份组织的交易条目
 - `20XX/00.bean`、`20XX/{01..12}.bean`：**提交到账本**产出的年/月文件（进入 Git）
 - `trans/`：**平台管理**的解析产物与写入缓冲（被 `.gitignore` 忽略）
 
