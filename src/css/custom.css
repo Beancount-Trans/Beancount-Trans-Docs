@@ -44,3 +44,9 @@
   --ifm-code-color: #c7dceb;
   --docusaurus-highlighted-code-line-bg: #17293a;
 }
+
+/* 归档目录（99-归档 / label: Legacy）不在侧边栏出现，路由仍可访问 */
+.theme-doc-sidebar-item-link.hidden-sidebar-item,
+.theme-doc-sidebar-item-category.hidden-sidebar-item {
+  display: none !important;
+}
